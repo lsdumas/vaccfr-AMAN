@@ -44,13 +44,13 @@
             "destinationAirports": [ "LFPG" ]
         },
         "PO 25": {
-            "targetFixes": [ "OLW11" ],
+            "targetFixes": [ "VEKUH" ],
             "viaFixes": [ "MOLBA", "ODILO", "VEBEK" ],
             "tagLayout": "myLayout",
             "destinationAirports": [ "LFPO" ]
         },
         "PO 06": {
-            "targetFixes": [ "ORE14" ],
+            "targetFixes": [ "IPO06" ],
             "viaFixes": [ "MOLBA", "ODILO", "VEBEK" ],
             "tagLayout": "myLayout",
             "destinationAirports": [ "LFPO" ]
